@@ -1,3 +1,7 @@
+// Sérgio Alexandre Alvarenga de Almeida
+// RA - 234591
+// Repositório: https://github.com/Serg-Ale/atividade02-Arquitetura-De-Software-UTFPR-/
+
 interface EmployeeComponent {
   getSalary(): number;
 }
